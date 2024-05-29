@@ -8,7 +8,7 @@ Além disso, para facilitar a gestão do evento, o recurso de check-in funciona,
 
 ## Funcionalidades
 
-- Adição de pessoas
+- Adição de usuários
 - Confirmação de presença
 - Cadastro único por usuário
 - Resposividade
