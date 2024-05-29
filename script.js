@@ -154,7 +154,7 @@ const adicionarParticipante = (event) => {
 
 const fazerCheckIn = (event) => {
     // confirmar se realmente quer fazer o check-in
-    const mensagemConfirmacao = 'Tem certeza que quer fazer o check-in ?'
+    const mensagemConfirmacao = 'Tem certeza que deseja realizar o check-in ?'
     
     if (confirm(mensagemConfirmacao) == false) {
         return

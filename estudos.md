@@ -128,6 +128,7 @@ if(participanteExiste){
     alert('Participante ja cadastrado')
     return
     esse return faz com que a função pare ai e não continue
+    
 }
 ~~~
 
